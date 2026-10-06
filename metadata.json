@@ -1,0 +1,6 @@
+{
+  "name": "AI-Based Personal Finance Prediction",
+  "description": "An AI-powered personal finance management and prediction web application with multi-user isolation, budget analytics, and machine learning expense forecasting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
